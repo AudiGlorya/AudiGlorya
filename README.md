@@ -1,4 +1,3 @@
-[visitors](https://komarev.com/ghpvc/?username=AudiGlorya&color=blue)
 # Glorya Audi
 ### Software Engineering | Artificial Intelligence | Machine Learning | Data Analytics
 
