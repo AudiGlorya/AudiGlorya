@@ -64,3 +64,12 @@ My repositories include project documentation, implementation details, technical
 
 
 *Engineering solutions. Understanding data. Building intelligence.*
+## GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=AudiGlorya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F4A7C3&icon_color=C9A0DC&text_color=E6EDF3&ring_color=F4A7C3" height="180" alt="AudiGlorya GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudiGlorya&layout=compact&hide_border=true&bg_color=0D1117&title_color=F4A7C3&text_color=E6EDF3&langs_count=6" height="180" alt="AudiGlorya Most Used Languages" />
+
+</div>
